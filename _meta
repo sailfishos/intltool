@@ -1,0 +1,12 @@
+<package project="Mer:Trunk:Base" name="intltool">
+  <title>Utility for internationalizing various kinds of data files</title>
+  <description>This tool automatically extracts translatable strings from oaf, glade,
+bonobo ui, nautilus theme, .desktop, and other data files and puts
+them in the po files.
+
+
+
+
+</description>
+  <url>http://www.gnome.org</url>
+</package>
