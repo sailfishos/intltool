@@ -1,3 +1,7 @@
+* Sun Feb 12 2012 Marko Saukko <marko.saukko@gmail.com> - 0.50.1
+- Update to version 0.50.1
+- Drop schemas-merge.patch as it is already in upstream.
+
 * Tue Apr 13 2010 Ross Burton <ross@linux.intel.com> 0.41.0
 - Drop comment patch, it's not required by Evolution any more
 

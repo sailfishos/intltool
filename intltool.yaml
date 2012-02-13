@@ -1,14 +1,12 @@
 Name: intltool
 Summary: Utility for internationalizing various kinds of data files
-Version: 0.41.0
+Version: 0.50.1
 Release: 1
 Group: Development/Tools
 License: GPLv2 with exceptions
-URL: http://www.gnome.org
+URL: http://freedesktop.org/wiki/Software/intltool
 Sources:
-    - http://download.gnome.org/sources/intltool/0.41/%{name}-%{version}.tar.gz
-Patches:
-    - schemas-merge.patch
+    - http://launchpad.net/intltool/trunk/%{version}/+download/%{name}-%{version}.tar.gz
 Description: |
     This tool automatically extracts translatable strings from oaf, glade,
     bonobo ui, nautilus theme, .desktop, and other data files and puts
